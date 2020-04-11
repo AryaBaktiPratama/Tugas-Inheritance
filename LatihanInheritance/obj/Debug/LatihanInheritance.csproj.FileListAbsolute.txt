@@ -1,0 +1,6 @@
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.exe.config
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.exe
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.pdb
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.csprojResolveAssemblyReference.cache
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.exe
+D:\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.pdb
